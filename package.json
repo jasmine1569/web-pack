@@ -1,0 +1,13 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack practice",
+  "main": "index.js",
+  "repository": "https://github.com/jasmine1569/web-pack.git",
+  "author": "Jasmine Beeman <jasmine.beeman@metalab.csun.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-15"
+  }
+}
