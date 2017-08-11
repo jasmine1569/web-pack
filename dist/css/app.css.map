@@ -1,1 +1,0 @@
-{"version":3,"sources":["_button.scss"],"names":[],"mappings":"AAEA;EACC,eAHY;CAIZ","file":"app.css","sourcesContent":["$red: #cf202f;\n\n.type-color{\n\tcolor: $red;\n}"]}
